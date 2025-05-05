@@ -1,4 +1,8 @@
-streamlit
-pyngrok
-textblob
-vaderSentiment
+Install:
+  streamlit
+  pyngrok
+  textblob
+  vaderSentiment
+
+use https://dashboard.ngrok.com/get-started/your-authtoken
+ans create a authtoken to establish a connection
